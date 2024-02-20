@@ -165,3 +165,182 @@ padding-top: 70px;
     margin-left: 600px;
     margin-top: 25px;
 }
+/* section-5 starts */
+#section-5{
+    width: 100%;
+    height:400px ;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.coming-soon{
+    display: flex;
+}
+.soon-content{
+    width: 33%;
+    padding-left: 30px;
+}
+.soon-content h3{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+.soon-content h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+    padding-bottom: 20px;
+ }
+ .soon-content p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+ }
+ .soon-img{
+    width: 35%;
+    box-sizing: border-box;
+    border: 15px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    padding: 20px;
+ }
+ .soon-last{
+    width: 33%;
+    padding-left: 30px;
+ }
+ .soon-last h2{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 10px;
+ }
+ .soon-last p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    padding-bottom: 50px;
+ }
+ /* section-6 starts */
+ #section-6{
+    width: 100%;
+    height:500px ;
+    margin-top: 100px;
+    margin-bottom: 150px;
+ }
+ .holiday-content h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 15px;
+ }
+ .holiday-content h1{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 91px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 15px;
+ }
+ .holiday-content span{
+    color: rgb(255, 0, 0);
+ }
+ .holiday-content p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+ }
+ .holiday-img1{
+    margin-top: 50px;
+    display: flex;
+    background: #fff;
+ }
+ 
+ .dummy1{
+    width: 40%;
+    bottom: -120px;
+    position: relative;
+    border-radius: 50%;
+ }
+ .dummy2{
+      
+        position:relative;
+        bottom:-30px;
+        left:150px; 
+}
+.dummy3{
+    width: 40%;
+ }
+ .dummy4{
+   height: 100px;
+   width: 100%;
+ }
+ .products-des{
+    padding-top: 60px;
+    padding-left: 30px;
+ }
+ .products-des h3{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 10px;
+ }
+ .products-des h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+    padding-bottom: 10px;
+ }
+ .products-des p{
+        color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 20px;
+ }
+ .products .row1, .row2{
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+ }
+ .products .row1 .Rimg1, .Rimg2, .Rimg3, .Rimg4{
+    padding-right: 10px;
+ }
